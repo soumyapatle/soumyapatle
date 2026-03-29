@@ -22,11 +22,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyapatle&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soumyapatle&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyapatle&layout=compact&theme=tokyonight)
 
 ---
 
